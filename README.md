@@ -97,3 +97,5 @@ Originally tried to do everything in memory but dumps get too big for that.
 
 ## License
 MIT
+
+<!-- added installation instructions -->
