@@ -96,3 +96,5 @@ const config: Config = {
 // debug: console.log('config loaded:', config.backup.dir); // left from debugging
 
 export default config;
+
+// refactored env parsing
