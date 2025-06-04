@@ -205,3 +205,5 @@ export default DatabaseBackup;
 // fix: added missing flag for postgres
 
 // added timeout handling
+
+// mysql support added
