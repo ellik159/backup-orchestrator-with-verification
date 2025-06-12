@@ -161,3 +161,5 @@ main().catch(error => {
   logger.error('CLI error:', error);
   process.exit(1);
 });
+
+// cleanup
