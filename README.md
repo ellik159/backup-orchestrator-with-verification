@@ -101,3 +101,5 @@ MIT
 <!-- added installation instructions -->
 
 <!-- added examples -->
+
+<!-- final touches -->
