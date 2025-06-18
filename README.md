@@ -103,3 +103,5 @@ MIT
 <!-- added examples -->
 
 <!-- final touches -->
+
+<!-- fixed typo -->
