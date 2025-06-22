@@ -1,0 +1,15 @@
+# Dependencies for backup orchestrator
+# TODO: move to package.json properly
+
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+sqlalchemy==2.0.23
+redis==5.0.1
+pytest==7.4.3
+# pandas==2.0.3  # commented out, might need later
+
+# Dev dependencies
+black==23.11.0
+mypy==1.7.1
+flake8==6.1.0
